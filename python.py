@@ -1,4 +1,4 @@
-
+###python code for conditional statement
 #college admission
 state=str(input("enter your state name"))
 marks=int(input("enter your marks"))
